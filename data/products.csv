@@ -1,0 +1,12 @@
+id,name,category,price,weight_kg,battery_hours,ram_gb,storage_gb,processor,display,purpose_tags,eco_friendly,low_light_camera,description,review_snippets
+L001,LiteBook Air 14,laptop,28990,1.45,9,8,512,Ryzen 3,14-inch FHD,coding|travel,false,false,"Lightweight everyday laptop with SSD storage and a compact chassis.","Easy to carry for college|Battery comfortably lasts through most classes"
+L002,CodeMate 15,laptop,29990,1.78,7.5,16,512,Core i5,15.6-inch FHD,coding,false,false,"Value-focused laptop with more memory for multitasking and development basics.","Good for browser tabs and coding practice|Keyboard is comfortable"
+L003,EnduroBook 14,laptop,31990,1.62,11,16,512,Ryzen 5,14-inch FHD,coding|travel,true,false,"Longer battery life and efficient performance in a portable design.","Battery life is the highlight|Solid build for daily commuting"
+L004,StudyFlex 14,laptop,24990,1.55,8,8,256,Core i3,14-inch HD,travel,false,false,"Entry-level laptop for study, office tasks and everyday browsing.","Good value for basic work|Display is adequate indoors"
+L005,CreatorLite 15,laptop,36990,1.85,8,16,512,Ryzen 5,15.6-inch FHD,content creation|coding,false,false,"Midrange laptop for heavier multitasking and creative workloads.","Handles editing projects well|A little heavier than expected"
+P001,PixelWave X,phone,26999,0.19,16,8,128,Tensor,6.3-inch OLED,travel,true,true,"Compact smartphone with computational photography and all-day battery.","Night photos look detailed|Comfortable one-hand size"
+P002,PowerMax 5G,phone,18999,0.21,18,8,128,Snapdragon,6.6-inch AMOLED,gaming,false,false,"Battery-focused phone with a large display and fast charging.","Battery easily lasts a day|Large screen is useful for media"
+P003,GreenOne S,phone,22999,0.20,14,8,256,Dimensity,6.4-inch AMOLED,travel|eco-friendly,true,true,"Phone with recycled-material emphasis and a versatile camera system.","Nice low-light portraits|Thoughtful packaging"
+H001,QuietPods Pro,headphones,7999,0.24,,,"","ANC","Over-ear",travel,false,false,"Wireless headphones with active noise cancellation and a foldable design.","Comfortable on long flights|Noise cancellation works well"
+H002,StudioSound Lite,headphones,3999,0.18,,,"","Dynamic","On-ear",travel,false,false,"Lightweight headphones for everyday listening and commuting.","Lightweight and easy to pack|Clear voice calls"
+H003,EcoBuds Air,headphones,5499,0.05,,,"","Hybrid","In-ear",eco-friendly|travel,true,false,"Compact earbuds made with recycled materials and a small charging case.","Case is pocketable|Good everyday sound"
